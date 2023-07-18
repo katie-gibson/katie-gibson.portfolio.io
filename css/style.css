@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #bede8c;
+  color: #a0c8db;
   text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #bede8c;
+  border: 6px solid #a0c8db;
   border-top-color: #dcf5f2;
   border-radius: 50%;
   width: 60px;
@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #bede8c;
+  background: #a0c8db;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -164,7 +164,7 @@ h6 {
 }
 
 .header-social-links a:hover {
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 /*--------------------------------------------------------------
@@ -218,7 +218,7 @@ h6 {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color: #bede8c;
+  background-color: #a0c8db;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -273,7 +273,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 .navbar .dropdown:hover>ul {
@@ -373,7 +373,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 .navbar-mobile .getstarted,
@@ -408,7 +408,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -462,7 +462,7 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #bede8c;
+  background: #a0c8db;
 }
 
 #hero .btn-about:hover {
@@ -528,7 +528,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #bede8c;
+  background: #a0c8db;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -572,8 +572,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #bede8c;
-  border: 2px solid #bede8c;
+  background: #a0c8db;
+  border: 2px solid #a0c8db;
 }
 
 @media (max-width: 1024px) {
@@ -611,7 +611,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 .about .content p:last-child {
@@ -651,7 +651,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #bede8c;
+  background-color: #a0c8db;
 }
 
 /*--------------------------------------------------------------
@@ -660,7 +660,7 @@ section {
 .facts .counters span {
   font-size: 48px;
   display: block;
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 .facts .counters p {
@@ -746,11 +746,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #bede8c;
+  border: 1px solid #a0c8db;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #bede8c;
+  background-color: #a0c8db;
 }
 
 /*--------------------------------------------------------------
@@ -767,7 +767,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #bede8c;
+  border-left: 2px solid #a0c8db;
   position: relative;
 }
 
@@ -787,7 +787,7 @@ section {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
-  color: #bede8c;
+  color: #a0c8db;
 }
 
 .resume .resume-item ul {
@@ -811,7 +811,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #bede8c;
+  border: 2px solid #a0c8db;
 }
 
 /*--------------------------------------------------------------
@@ -973,7 +973,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #bede8c;
+  background: #a0c8db;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1086,11 +1086,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #bede8c;
+  border: 1px solid #a0c8db;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #bede8c;
+  background-color: #a0c8db;
 }
 
 .portfolio-details .portfolio-info {
@@ -1140,7 +1140,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #bede8c;
+  color: #a0c8db;
   float: left;
   width: 44px;
   height: 44px;
@@ -1175,7 +1175,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #bede8c;
+  background: #a0c8db;
   color: #fff;
 }
 
@@ -1234,7 +1234,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #bede8c;
+  border-color: #a0c8db;
 }
 
 .contact .php-email-form input {
@@ -1246,7 +1246,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #bede8c;
+  background: #a0c8db;
   border: 0;
   padding: 10px 30px 12px 30px;
   color: #fff;
@@ -1285,5 +1285,5 @@ section {
 }
 
 #footer .credits a {
-  color: #bede8c;
+  color: #a0c8db;
 }
