@@ -1074,7 +1074,7 @@ section {
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
-  position: center;
+  position: relative;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
