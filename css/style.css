@@ -708,7 +708,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c8efea;
+  color: #BAC9FF;
   font-size: 26px;
 }
 
@@ -782,7 +782,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e6f5fc;
+  background: #E7EDFF;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -1144,7 +1144,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #e6f5fc;
+  background: #E7EDFF;
   display: flex;
   justify-content: center;
   align-items: center;
