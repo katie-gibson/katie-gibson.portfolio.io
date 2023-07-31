@@ -776,7 +776,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #214b5e;
+  color: #00255A;
   margin-bottom: 10px;
 }
 
@@ -1050,7 +1050,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #78d9cd;
+  color: #6B8CFF;
 }
 
 .portfolio .portfolio-wrap:hover::before {
