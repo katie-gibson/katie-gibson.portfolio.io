@@ -63,7 +63,7 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #A6BAFF;
-  border-top-color: #d8eaf2;
+  border-top-color: #E7EDFF;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -104,7 +104,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #49cbbb;
+  background: #6B8CFF;
   color: #fff;
 }
 
