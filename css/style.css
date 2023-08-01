@@ -117,7 +117,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #23357A; /* #e9e8e6; */
+  background: #182557; /* #e9e8e6; */
   box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
   z-index: 997;
   padding: 15px 0;
@@ -776,7 +776,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #23357A;
+  color: #182557;
   margin-bottom: 10px;
 }
 
