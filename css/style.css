@@ -117,7 +117,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #e9e8e6;
+  background: #00255A; /* #e9e8e6; */
   box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
   z-index: 997;
   padding: 15px 0;
@@ -134,7 +134,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #222222;
+  color: #ffffff; /* #222222; */
 }
 
 #header .logo img {
@@ -155,7 +155,7 @@ h6 {
 }
 
 .header-social-links a {
-  color: #6f6f6f;
+  color: #ffffff; /* #6f6f6f; */
   padding-left: 6px;
   display: inline-block;
   line-height: 0px;
@@ -198,7 +198,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #888888;
+  color: #ffffff; /* #888888; */
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
